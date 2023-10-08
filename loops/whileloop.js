@@ -3,3 +3,4 @@ while (count < 20) {
     console.log("Ali")
     count++;
 }
+
